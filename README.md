@@ -1,1 +1,1 @@
-# Inverse_solo
+# SolarPowerScenarioGenerator
