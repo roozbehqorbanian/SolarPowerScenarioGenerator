@@ -1,16 +1,12 @@
 # Scenario Generation for Solar
 
-To derive hourly data from the installed capacities of solar, wind, and run-of-river generation, as well as temperature and demand, we use a series of regression models that capture yearly, weekly, and daily seasonality.
+To derive hourly data from the installed capacities of solar generation, we use a series of regression models that capture yearly, weekly, and daily seasonality.
 
 Denote hours $\mathcal{H}$ as the set of days that are holidays, $\mathcal{W}_j$ as the set of days that are weekday $j$, $h$ as the hour of the day, and $d$ as a day from the training and scenario data. 
 
-For power generation from solar, wind, and run-of-river (as well as temperature) the regression model only considers seasonal variation using multiple trigonometric terms with a maximum cycle length of 365 days. We fit a separate model for each hour of the day. The resulting regression model is given by
+For power generation from solar the regression model only considers seasonal variation using multiple trigonometric terms with a maximum cycle length of 365 days. We fit a separate model for each hour of the day. The resulting regression model is given by
 
 $Y_{dh} = \beta^0_{h} + \beta^1_{h}d + \sum_{i = 1}  \left( \beta^4_{hi} \sin\left(\frac{di 2\pi}{365}\right) + \beta^5_{hi} \cos\left(\frac{di 2\pi}{365}\right)\right)$
-
-The demand model additionally includes calendar features using dummy variables for holidays and day of the week. The resulting regression model is given by
-
-$D_{dh} = \beta^0_{h} + \beta^1_hd + \sum_{j=1}^6 \beta^2_{hj} \textbf{1}_{\mathcal{W}_j}(d)   + \beta^3_{h} \textbf{1}_{\mathcal{H}}(d) + \sum_{i = 1}^{180}  \left( \beta^4_{hi} \sin\left(\frac{di 2\pi}{365}\right) + \beta^5_{hi} \cos\left(\frac{di 2\pi}{365}\right)\right)$
 
 After fitting the model to the data, we calculate the prediction errors using historical data. These errors are then further analyzed using clustering techniques. The aim is to group errors that are similar in magnitude. For this purpose, we employed the KMeans algorithm, a widely-used unsupervised clustering method known for its efficiency and effectiveness.
 
