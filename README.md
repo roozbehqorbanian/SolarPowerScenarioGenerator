@@ -1,4 +1,4 @@
-# Scenario Generation for Solar
+# Solar Energy Scenario Generation
 
 To derive hourly data from the installed capacities of solar generation, we use a series of regression models that capture yearly, weekly, and daily seasonality.
 
