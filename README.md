@@ -6,7 +6,7 @@ Denote hours $\mathcal{H}$ as the set of days that are holidays, $\mathcal{W}_j$
 
 For power generation from solar, wind, and run-of-river (as well as temperature) the regression model only considers seasonal variation using multiple trigonometric terms with a maximum cycle length of 365 days. We fit a separate model for each hour of the day. The resulting regression model is given by
 
-$Y_{dh} = \beta^0_{h} + \beta^1_{h}d + \sum_{i = 1}^180  \left( \beta^4_{hi} \sin\left(\frac{di 2\pi}{365}\right) + \beta^5_{hi} \cos\left(\frac{di 2\pi}{365}\right)\right)$
+$Y_{dh} = \beta^0_{h} + \beta^1_{h}d + \sum^{180}_{i = 1}  \left( \beta^4_{hi} \sin\left(\frac{di 2\pi}{365}\right) + \beta^5_{hi} \cos\left(\frac{di 2\pi}{365}\right)\right)$
 
 The demand model additionally includes calendar features using dummy variables for holidays and day of the week. The resulting regression model is given by
 
