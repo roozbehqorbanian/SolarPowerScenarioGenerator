@@ -1,3 +1,5 @@
+# Scenario Generation for Solar
+
 To derive hourly data from the installed capacities of solar, wind, and run-of-river generation, as well as temperature and demand, we use a series of regression models that capture yearly, weekly, and daily seasonality.
 
 Denote hours $\mathcal{H}$ as the set of days that are holidays, $\mathcal{W}_j$ as the set of days that are weekday $j$, $h$ as the hour of the day, and $d$ as a day from the training and scenario data. 
