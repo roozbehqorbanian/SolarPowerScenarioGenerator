@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e0eeecd-45c5-4ecf-ad70-631f25fa0730" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2YwB587bb72J22ABJzAr7e2goVh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="generate_scenarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SolarPowerScenarioGenerator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/SolarPowerScenarioGenerator/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generate_scenarios.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SolarPowerScenarioGenerator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/SolarPowerScenarioGenerator/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.generate_scenarios" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e0eeecd-45c5-4ecf-ad70-631f25fa0730" name="Default Changelist" comment="" />
+      <created>1701426575335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701426575335</updated>
+      <workItem from="1701426577187" duration="2493000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="606" y="177" key="#generate_scenarios" timestamp="1701440389954">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="606" y="177" key="#generate_scenarios/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1701440389954" />
+    <state x="606" y="177" key="#main" timestamp="1701426612346">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="606" y="177" key="#main/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1701426612346" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1701440428377">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1701440428377" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1701440428376">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1701440428376" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1701440428376">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1701440428376" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1701440428376">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1701440428376" />
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom" timestamp="1701440374863">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1701440374863" />
+    <state width="1750" height="392" key="GridCell.Tab.1.center" timestamp="1701440374863">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.center/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1701440374863" />
+    <state width="1750" height="392" key="GridCell.Tab.1.left" timestamp="1701440374862">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.left/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1701440374862" />
+    <state width="1750" height="392" key="GridCell.Tab.1.right" timestamp="1701440374863">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.right/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1701440374863" />
+    <state x="522" y="254" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1701428355166">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="522" y="254" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1701428355166" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SolarPowerScenarioGenerator$main.coverage" NAME="main Coverage Results" MODIFIED="1701440406139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SolarPowerScenarioGenerator$generate_scenarios.coverage" NAME="generate_scenarios Coverage Results" MODIFIED="1701440389974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
