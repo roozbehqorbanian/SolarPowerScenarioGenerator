@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e0eeecd-45c5-4ecf-ad70-631f25fa0730" name="Default Changelist" comment="" />
+    <list default="true" id="8e0eeecd-45c5-4ecf-ad70-631f25fa0730" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701426575335</updated>
       <workItem from="1701426577187" duration="2493000" />
+      <workItem from="1702456108592" duration="59000" />
     </task>
     <servers />
   </component>
@@ -98,22 +101,22 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="606" y="177" key="#main/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1701426612346" />
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1701440428377">
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1702456167466">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1701440428377" />
-    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1701440428376">
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1702456167466" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1702456167466">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.center/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1701440428376" />
-    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1701440428376">
+    <state width="1750" height="318" key="GridCell.Tab.0.center/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1702456167466" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1702456167465">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.left/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1701440428376" />
-    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1701440428376">
+    <state width="1750" height="318" key="GridCell.Tab.0.left/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1702456167465" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1702456167466">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.right/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1701440428376" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1702456167466" />
     <state width="1750" height="392" key="GridCell.Tab.1.bottom" timestamp="1701440374863">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -135,19 +138,8 @@
     </state>
     <state x="522" y="254" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1701428355166" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>35</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/SolarPowerScenarioGenerator$main.coverage" NAME="main Coverage Results" MODIFIED="1701440406139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SolarPowerScenarioGenerator$main.coverage" NAME="main Coverage Results" MODIFIED="1702456129676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SolarPowerScenarioGenerator$generate_scenarios.coverage" NAME="generate_scenarios Coverage Results" MODIFIED="1701440389974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
